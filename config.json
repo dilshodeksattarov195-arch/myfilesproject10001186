@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpync",
+        "uuid": 5427136,
+        "checksum": "wjq6l"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
